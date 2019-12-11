@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/para/.vim/bundle/vim-airline'
+let g:netrw_dirhist_2='/home/para/nginx-1.15.5/src/event'
+let g:netrw_dirhist_3='/home/para/.vim'
+let g:netrw_dirhist_4='/home/para/.vim/syntax'
